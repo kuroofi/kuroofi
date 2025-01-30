@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Rafael</h1>
+🎓 First-year commerce student at Queen's University, planning to pursue a CS double degree starting next year.
 
-<!--
-**kuroofi/kuroofi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning and building my skills through hands-on projects. Open to feedback and eager to grow!
 
-Here are some ideas to get you started:
+🔧 Currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* youtube-data-pipeline - A YouTube data scraper using Python & SQL, converts to CSV for PowerBI usage 
+* Exploring machine learning with LNNs and PyTorch, hoping to tackle a project soon
+* Upcoming React portfolio project 
+
+📫 Feel free to reach out if you'd like to connect or collaborate!
+
+
