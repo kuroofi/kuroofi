@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Rafael</h1>
-🎓 First-year commerce student at Queen's University, planning to pursue a CS double degree starting next year.
+🎓 Second-year commerce/computing double degree student at Queen's University.
 
 Currently learning and building my skills through hands-on projects. Open to feedback and eager to grow!
 
